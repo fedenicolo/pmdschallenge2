@@ -2,7 +2,7 @@
 
 **Introduction**:
 
-Imagine a bustling global superstore, a marketplace that echoes with the diversity of products, customers, and regions. Your team of Data Analysts has received a call from this retail titan, seeking your expertise to unearth insights that will fortify their business strategy. Welcome to the PMDS Superstore dataset, a treasure trove of sales, orders, and customer behaviors that spans continents.
+Imagine a bustling global superstore, a marketplace that echoes with the diversity of products, customers, and regions. Your team of Data Analysts has received a call from this retail titan, seeking your expertise to unearth insights that will fortify their business strategy. Welcome to the International Superstore dataset, a treasure trove of sales, orders, and customer behaviors that spans continents.
 The challenge beckons you to craft a PowerBI dashboard that not only dissects sales patterns and profitability but also uncovers the tales hidden in the interactions between markets, regions, and shipping modes. Your task is not just to visualize; it's to decode the intricacies of customer behavior, understand the impact of discounts, and navigate the geographical differences that influence success.
 
 So, gear up, dive into the dataset, and let your PowerBI dashboard be the compass that guides the superstore towards a future of informed decisions and success.
