@@ -1,4 +1,4 @@
-# Microsoft x PMDS : Challenge 1st Propose
+# Microsoft x PMDS : Challenge
 
 **Introduction**:
 
